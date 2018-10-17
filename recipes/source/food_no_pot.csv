@@ -1,0 +1,86 @@
+Name,Type,Hearts,Effect,Duration,Resale
+Acorn,Seasoning,0.25*,-,0:50,2*
+Apple,Fruit,0.5,-,0:30,3
+Armoranth,Green,0,Tough,0:50,5
+Armored Carp,Seafood,1,Tough,0:50,10
+Armored Porgy,Seafood,1,Tough,0:50,10
+Big Hearty Radish,Green,4,Hearty,-,15
+Big Hearty Truffle,Mushroom,3,Hearty,-,15
+Bird Egg,Filler,1,-,1:30,3
+Blue Nightshade,Green,0,Sneaky,2:00,4
+Bright-eyed Crab,Seafood,1,Energizing,-,10
+Cane Sugar,Seasoning,0,-,1:20,3
+Chickaloo Tree Nut,Seasoning,0.25*,-,0:40,3
+Chillfin Trout,Seafood,1,Chilly,2:30,6
+Chillshroom,Mushroom,0.5,Chilly,2:30,4
+Cool Saffina,Green,0,Chilly,2:30,3
+Courser Bee Honey,Seasoning,2,Energizing,-,10
+Electric Saffina,Green,0,Electro,2:30,3
+Endura Carrot,Green,2,Enduring,-,30
+Endura Shroom,Mushroom,1,Enduring,-,6
+Fairy,Filler,5*,-,0:30,2
+Fleet-Lotus Seeds,Fruit,0.5,Hasty,1:00,5
+Fortified Pumpkin,Green,0.5,Tough,0:50,5
+Fresh Milk,Filler,0.5,-,1:20,3
+Goat Butter,Seasoning,0,-,1:20,3
+Goron Spice,Seasoning,0,-,1:30,4
+Hearty Bass,Seafood,2,Hearty,-,18
+Hearty Blueshell Snail,Seafood,3,Hearty,-,15
+Hearty Durian,Fruit,3,Hearty,-,15
+Hearty Radish,Green,2.5,Hearty,-,8
+Hearty Salmon,Seafood,4,Hearty,-,10
+Hearty Truffle,Mushroom,2,Hearty,-,6
+Hydromelon,Fruit,0.5,Chilly,2:30,4
+Hylian Rice,Seasoning,1,-,1:00,3
+Hylian Shroom,Mushroom,0.5,-,0:30,3
+Hyrule Bass,Seafood,1,-,0:30,6
+Hyrule Herb,Green,1,-,0:30,3
+Ironshell Crab,Seafood,1,Tough,0:50,8
+Ironshroom,Mushroom,0.5,Tough,0:50,5
+Mighty Bananas,Fruit,0.5,Mighty,0:50,5
+Mighty Carp,Seafood,1,Mighty,0:50,10
+Mighty Porgy,Seafood,1,Mighty,0:50,10
+Mighty Thistle,Green,0,Mighty,0:50,5
+Monster Extract,Other,,,1/10/30:00,3
+Palm Fruit,Fruit,1,-,0:30,4
+Raw Bird Drumstick,Meat,1,-,0:30,8
+Raw Bird Thigh,Meat,1.5,-,0:30,15
+Raw Gourmet Meat,Meat,3,-,0:30,35
+Raw Meat,Meat,1,-,0:30,8
+Raw Prime Meat,Meat,1.5,-,0:30,15
+Raw Whole Bird,Meat,3,-,0:30,35
+Razorclaw Crab,Seafood,1,Mighty,0:50,8
+Razorshroom,Mushroom,0.5,Mighty,0:50,5
+Rock Salt,Seasoning,0,-,1:00,2
+Rushroom,Mushroom,0.5,Hasty,1:00,3
+Silent Princess,Green,1,Sneaky,2:00,10
+Silent Shroom,Mushroom,0.5,Sneaky,2:00,3
+Sizzlefin Trout,Seafood,1,Spicy,2:30,6
+Sanke Carp,Seafood,1,-,0:30,20
+Sneaky River Snail,Seafood,1,Sneaky,2:00,6
+Spicy Pepper,Fruit,0.5,Spicy,2:30,3
+Stamella Shroom,Mushroom,0.5,Energizing,-,5
+Staminoka Bass,Seafood,1,Energizing,-,18
+Star Fragment,Other,,-,0:30,300
+Stealthfin Trout,Seafood,1,Sneaky,2:00,10
+Sunshroom,Mushroom,0.5,Spicy,2:30,4
+Swift Carrot,Green,0.5,Hasty,1:00,4
+Swift Violet,Green,0,Hasty,1:00,10
+Tabantha Wheat,Seasoning,1,-,1:00,3
+Voltfin Trout,Seafood,1,Electro,2:30,6
+Voltfruit,Fruit,0.5,Electro,2:30,4
+Warm Saffina,Green,0,Spicy,2:30,3
+Wildberry,Fruit,0.5,-,0:30,3
+Zapshroom,Mushroom,0.5,Electro,2:30,4
+Dinraal’s Scale,Filler,0.625,-,2:00,1
+Dinraal’s Claw,Filler,1,-,4:00,1
+Shard of Dinraal’s Fang,Filler,1.25,-,11:00,1
+Shard of Dinraal’s Horn,Filler,1.875,-,30:00,1
+Naydra’s Scale,Filler,0.625,-,2:00,1
+Naydra’s Claw,Filler,1,-,4:00,1
+Shard of Naydra’s Fang,Filler,1.25,-,11:00,1
+Shard of Naydra’s Horn,Filler,1.875,-,30:00,1
+Farosh’s Scale,Filler,0.625,-,2:00,150
+Farosh’s Claw,Filler,1,-,4:00,1
+Shard of Farosh’s Fang,Filler,1.25,-,11:00,250
+Shard of Farosh’s Horn,Filler,1.875,-,30:00,300

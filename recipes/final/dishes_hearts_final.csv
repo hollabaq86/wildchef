@@ -1,0 +1,71 @@
+Food,Hearts Restored,Duration,Sell Price,Ingredients
+Apple Pie,3,"n/a",30,"Apple,Tabantha Wheat,Cane Sugar,Goat Butter"
+Apple Pie,7,"n/a",50,"Apple x2,Tabantha Wheat,Cane Sugar,Goat Butter"
+Meat Pie,14,"n/a",110,"Tabantha Wheat,Goat Butter,Rock Salt,Raw Gourmet Meat x2"
+Fruit Pie,3,"n/a",30,"Wildberry,Tabantha Wheat,Cane Sugar,Goat Butter"
+Monster Cake,0.25,"n/a","","Monster Extract,Tabantha Wheat,Cane Sugar,Goat Butter."
+Nutcake,3,"n/a","","Acorn,Tabantha Wheat,Cane Sugar,Goat Butter"
+Fruit cake,5,"n/a","","Apple,Wildberry,Tabantha Wheat,Cane Sugar"
+Carrot Cake,7,"n/a","","Swift carrot,Endura carrot,Tabantha Wheat,Cane sugar,Goat butter"
+Egg Pudding,3,"n/a","","Fresh Milk,Bird Egg,Cane Sugar"
+Egg Tart,4,"n/a","","Bird Egg,Tabantha Wheat,Cane Sugar,Goat Butter"
+Mushroom risotto,3,"n/a","","Hylian Shroom,Hylian Rice,Goat Butter,Rock Salt"
+Seafood Meunière,4,"n/a","","Tabantha Wheat,Goat Butter,Hyrule Bass"
+Porgy Meunière,8,"n/a","","Tabantha Wheat,Goat Butter,Armored Porgy,Mighty Porgy x2"
+Creamy Heart Soup,13,"n/a","","Fresh Milk,Voltfruit,Hydromelon,Hearty Radish x2"
+Fried Egg and Rice,4,"n/a","","Hylian Rice,Bird Egg"
+Hot Buttered Apple,2,"n/a","","Apple,Goat Butter"
+Meat and Rice Bowl,4,"n/a","","Raw Meat,Hylian Rice,Rock Salt"
+Vegetable Curry,7,"n/a","","Swift Carrot,Endura Carrot,Hylian Rice,Goron Spice"
+Gourmet Meat Curry,20,"n/a","","Raw Gourmet Meat x3,Hylian Rice,Goron Spice"
+Gourmet Poultry Curry,20,"n/a","","Raw Whole Bird x3,Hylian Rice,Goron Spice"
+Monster Curry,0.25,"n/a","","Hylian Rice,Goron Spice,Monster Extract"
+Poultry Pilaf,8,"n/a","","Raw Bird Drumstick x2,Hylian Rice,Bird Egg,Goat Butter"
+Curry Pilaf,6,"n/a","","Hylian Rice x3,Goron Spice,Goat Butter"
+Omelet,2,"n/a","",Bird Egg
+Pepper Steak,3,"n/a","","Spicy Pepper,Mighty Thistle,Raw Bird Drumstick"
+Plain Crepe,5,"n/a","","Fresh Milk,Bird Egg,Tabantha Wheat,Cane Sugar"
+Meat Stew,5,"n/a","","Raw Meat,Fresh Milk,Tabantha Wheat,Goat Butter"
+Seafood Paella,12,"n/a","","Hylian Rice,Goat Butter,Rock Salt,Mighty Porgy,Hearty Blueshell Snail"
+Wheat Bread,2,"n/a","","Tabantha Wheat,Rock Salt"
+Milk,1.5,"n/a","",Fresh Milk
+Simmered Fruit,1,"n/a","",Apple
+Mushroom Skewer,1,"n/a","",Hyrule Shroom
+Fried Wild Greens,2,"n/a","",Hyrule Herb
+Fish Skewer,2,"n/a","",Hyrule Bass
+Meat Skewer,"n/a","n/a","",Any Raw Meat
+Fruit and Mushroom Mix,2,"n/a","","Apple,Hylian Shroom"
+Fish and Mushroom Skewer,3,"n/a","","Hylian Shroom,Hyrule Bass"
+Meat and Mushroom Skewer,3,"n/a","","Raw Meat,Hylian Shroom"
+Steamed Fruit,3,"n/a","","Apple,Hyrule Herb"
+Steamed Mushrooms,3,"n/a","","Hyrule Shroom,Hyrule Herb"
+Steamed Fish,4,"n/a","","Hyrule Herb,Hyrule Bass"
+Steamed Meat,4,"","Hyrule Herb,Raw Meat"
+Salt-Grilled Fish,2,"","Rock Salt,Hyrule Bass"
+Salt-Grilled Mushrooms,1,"","Hylian Shroom,Rock Salt"
+Salt-Grilled Meat,2,"","Raw Bird Drumstick,Rock Salt"
+Salt-Grilled Greens,2,"","Hyrule Herb,Rock Salt"
+Meat and Seafood Fry,4,"","Hyrule Bass,Raw Bird Drumstick"
+Glazed Mushrooms,6,"","Endura Shroom,Courser Bee Honey"
+Glazed Meat,7,"","Spicy Pepper,Raw Meat,Courser Bee Honey"
+Glazed Veggies,4,"","Courser Bee Honey,Cool Safflina"
+Fragrant Mushroom Saute,1,"","Hylian Shroom,Goron Spice"
+Herb Saute,2,"","Hyrule Herbs,Goron Spice"
+Spiced Meat Skewer,2,"","Raw Meat,Goron Spice"
+Meaty Rice Balls,4,"","Raw Meat,Hylian Rice"
+Mushroom Rice Balls,3,"","Hylian Shroom,Hylian Rice"
+Seafood Rice Balls,4,"","Hylian Rice,Hyrule Bass"
+Veggie Rice Balls,4,"","Hylian Rice,Hyrule Herbs"
+Hard Boiled Egg,1 ½,"",Egg
+Campfire Egg,1 ½,"",Egg
+Baked Apple,¾,"",Apple
+Baked Palm Fruit,1 ½,"",Palm Fruit
+Roasted Acorn,½,"",Acorn
+Roasted Bass,1 ½,"",Hyrule Bass
+Roasted Bird Drumstick,1 ½,"",Raw Bird Drumstick
+Roasted Radish,3 ¾,"",Hearty Radish
+Seared Gourmet Steak,4 ½,"",Raw Gourmet Meat
+Seared Prime Steak,2 ¼,"",Raw Prime Meat
+Seared Steak,1 ½,"",Raw Meat
+Blueshell Escargot,4 ½,"",Hearty Blueshell Snail
+Toasted Hearty Truffle,3,"",Hearty Truffle

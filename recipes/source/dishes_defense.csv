@@ -1,0 +1,31 @@
+Food,Ingredients,Strength,Duration,Notes,Sell Price
+Tough Fish and Mushroom Skewer,"Hylian Shroom,Armored Carp,Low,1:20,Restore three hearts,30
+Tough Seafood Skewer,Ironshell Crab x5,High,4:10,also restores six hearts,
+Tough Fried Wild Greens,Fortified Pumpkin,Low,0:50,Restore one heart,10
+Tough Veggie Rice Balls,"Hylian Rice,Armoranth x4",Low,4:20,Restore two hearts,70
+Tough Porgy Meunière,"Tabantha Wheat,Goat Butter,Armored Porgy x3",High,4:50,Restores eight hearts,100
+Tough Hot Buttered Apple,"Apple,Fortified Pumpkin,Goat Butter",Low,2:40,Restore three hearts,30
+Tough Meat-Stuffed Pumpkin,"Fortified Pumpkin,Raw Bird Drumstick",Low,1:20,Restore three hearts - Add various seasoning to increase duration and effect,30
+Tough Meaty Rice Balls,"Ironshroom,Raw Meat,Hylian Rice",Low,2:20,Restore five hearts,40
+Tough Milk,"Fortified Pumpkin,Milk",Low,2:10,Restore two hearts,20
+Tough Monster Soup,"Fortified Pumpkin,Milk,Tabantha Wheat,Goat Butter,Monster Extract",Low,3:10,Restore 7 hearts,
+Tough Mushroom Skewer,Ironshroom,Low,0:50,Restore one heart,10
+Tough Mushroom Skewer,Ironshroom x2,Low,1:40,Restore two hearts,20
+Tough Mushroom Skewer,Ironshroom x3,Mid,2:30,Restore three hearts,40
+Tough Mushroom Skewer,Ironshroom x4,High,3:20,Restore four hearts,50
+Tough Mushroom Skewer,Ironshroom x5,High,4:10,Restore five hearts,70
+Tough Prime Meat and Rice Bowl,"Ironshroom,Raw Prime Meat,Hylian Rice,Rock Salt",Low,3:20,Restore six hearts,60
+Tough Steamed Meat,"Armoranth,Raw Meat",Low,1:20,Restore two hearts,30
+Tough Meaty Rice Balls,"Armoranth,Fortified Pumpkin,Raw Bird Drumstick,Hylian Rice,Rock Salt",Low,4:10,Restore five hearts,70
+Tough Fried Wild Greens,"Armoranth,Fortified Pumpkin,Ironshroom,Armored Carp,Ironshell Crab",High,4:10,Restore six heart,100
+Tough Steamed Mushrooms,"Armoranth,Ironshroom",Low,1:40,Restore one heart,20
+Tough Steamed Mushrooms,"Armoranth,Ironshroom x2",Mid,2:30,Restore two hearts,40
+Tough Steamed Mushrooms,"Armoranth,Ironshroom x3",High,3:20,Restore three hearts,50
+Tough Mushroom Skewer,Ironshroom x5,High,4:10,Restore five hearts,70
+Tough Meat and Mushroom Skewer,"Raw Meat,Ironshroom x4",High,3:50,120,
+Tough Prime Meat and Seafood Fry,"Ironshroom,Armoranth,Raw Prime Meat,Armored Porgy,Ironshell Crab",High,3:50,Restore eight hearts,120
+Tough Meat-Stuffed Pumpkin,"Ironshroom,Armoranth,Fortified Pumpkin,Raw Prime Meat,Ironshell Crab",High,3:50,Restore seven hearts,110
+Tough Omelet,"Ironshroom x4,Bird Egg",High,4:50,Restores six hearts,70
+Tough Pumpkin Stew,"Fortified Pumpkin,Fresh Milk,Tabantha Wheat,Goat Butter",,,,
+Tough Salt-Grilled Fish,"Hylian Shroom,Fresh Milk,Rock Salt,Armored Carp x2",Low,4:30,Restore six hearts,80
+Tough Salt-Grilled ~Fish,"Ironshroom,Fresh Milk,Rock Salt,Armored Porgy x2",High,4:50,Restore six hearts,90

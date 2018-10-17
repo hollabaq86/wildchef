@@ -1,0 +1,24 @@
+Food,Strength,Duration,Notes,Sell Price,Ingredients
+Mighty Crab Risotto,Low,4:10,Restore four hearts,40,"Hylian Rice,Goat Butter,Rock Salt,Razorclaw Crab"
+Mighty Crab Stir-Fry,Low,2:20,Restore 2 hearts,30,"Razorclaw Crab,Goron Spice"
+Mighty Herb Sautè,High,5:30,Restores 6 hearts,,"Mighty Porgy x2,Mighty Thistle,Bird Egg,Goron Spice"
+Mighty Porgy Meunière,High,4:50,Restores eight hearts,100,"Tabantha Wheat,Goat Butter,Mighty Porgy x3"
+Mighty Veggie Rice Balls,Low,4:20,Restore two hearts,70,"Hylian Rice,Mighty Thistle x4"
+Mighty Fried Bananas,Low,3:10,Restores three hearts,30,"Mighty Bananas,Tabantha Wheat,Cane Sugar"
+Mighty Fried Wild Greens,Mid,3:00,Restores four hearts,50,"Mighty Bananas,Razorshroom,Hyrule Herb,Mighty Thistle"
+Mighty Simmered Fruit,Low,0:50,Restore one heart,10,Mighty Bananas,Mighty Bananas x2,Mighty Bananas x3,Mighty Bananas x4,Mighty Bananas x5
+Mighty Simmered Fruit,Low,1:40,Restore two hearts,20,"Mighty Bananas x4,Monster Extract"
+Mighty Simmered Fruit,Mid,2:30,Restore three hearts,40,"Bird Egg,Razorclaw Crab"
+Mighty Simmered Fruit,High,3:20,Restore four hearts,50,"Mighty Bananas,Mighty Thistle,Mighty Carp,Razorclaw Crab"
+Mighty Simmered Fruit,High,4:10,Restores five hearts,70,"Bird Egg,Hyrule Herb,Razorclaw Crab"
+Mighty Simmered Fruit,High,30:00,Restores 1/4 hearts. Must be cooked while wearing the Dark Link costume at night.,,"Mighty Carp x2,Razorshroom x2,Hylian Rice"
+Mighty Seafood Skewer,Low,2:20,Restore four hearts,20,"Hylian Rice,Razorclaw Crab x4"
+Mighty Seafood Skewer,High,3:20,Restores five hearts,70,"Mighty Bananas,Razorshroom,Raw Gourmet Meat,Goron Spice,Rock Salt"
+Mighty Steamed Fish,Low,2:50,Restores six hearts - Razorclaw Crab can be swapped out for Mighty Porgy,30,"Mighty Bananas x3,Mighty Carp,Raw Meat"
+Mighty Seafood Rice Balls,High,4:20,Restores eight hearts,100,"Mighty Bananas,Mighty Thistle,Raw Prime Meat,Mighty Porgy,Razorclaw Crab"
+Mighty Seafood Rice Balls,High,4:20,also restores six hearts,,"Mighty Bananas,Mighty Thistle,Raw Prime Meat,Mighty Porgy,Hylian Rice"
+Mighty Gourmet Spiced Meat Skewer,Low,4:40,Restores eleven hearts,,"Mighty Bananas x2,Mighty Thistle,Fresh Milk"
+Mighty Meat and Seafood Fry,High,3:50,Restores seven hearts,,
+Mighty Prime Meat and Seafood Fry,High,3:50,Restore nine hearts,120,
+Mighty Meaty Rice Balls,High,4:00,Restore eight hearts,110,
+Mighty Steamed Fruit,High,3:50,Restore three hearts,50,

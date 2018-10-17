@@ -1,0 +1,86 @@
+Name,Hearts,Duration,Resale,Ingredients
+Acorn,0.25*,0:50,2*,Acorn
+Apple,0.5,0:30,3,Apple
+Armoranth,0,0:50,5,Armoranth
+Armored Carp,1,0:50,10,Armored Carp
+Armored Porgy,1,0:50,10,Armored Porgy
+Big Hearty Radish,4,-,15,Big Hearty Radish
+Big Hearty Truffle,3,-,15,Big Hearty Truffle
+Bird Egg,1,1:30,3,Bird Egg
+Blue Nightshade,0,2:00,4,Blue Nightshade
+Bright-eyed Crab,1,-,10,Bright-eyed Crab
+Cane Sugar,0,1:20,3,Cane Sugar
+Chickaloo Tree Nut,0.25*,0:40,3,Chickaloo Tree Nut
+Chillfin Trout,1,2:30,6,Chillfin Trout
+Chillshroom,0.5,2:30,4,Chillshroom
+Cool Saffina,0,2:30,3,Cool Saffina
+Courser Bee Honey,2,-,10,Courser Bee Honey
+Electric Saffina,0,2:30,3,Electric Saffina
+Endura Carrot,2,-,30,Endura Carrot
+Endura Shroom,1,-,6,Endura Shroom
+Fairy,5*,0:30,2,Fairy
+Fleet-Lotus Seeds,0.5,1:00,5,Fleet-Lotus Seeds
+Fortified Pumpkin,0.5,0:50,5,Fortified Pumpkin
+Fresh Milk,0.5,1:20,3,Fresh Milk
+Goat Butter,0,1:20,3,Goat Butter
+Goron Spice,0,1:30,4,Goron Spice
+Hearty Bass,2,-,18,Hearty Bass
+Hearty Blueshell Snail,3,-,15,Hearty Blueshell Snail
+Hearty Durian,3,-,15,Hearty Durian
+Hearty Radish,2.5,-,8,Hearty Radish
+Hearty Salmon,4,-,10,Hearty Salmon
+Hearty Truffle,2,-,6,Hearty Truffle
+Hydromelon,0.5,2:30,4,Hydromelon
+Hylian Rice,1,1:00,3,Hylian Rice
+Hylian Shroom,0.5,0:30,3,Hylian Shroom
+Hyrule Bass,1,0:30,6,Hyrule Bass
+Hyrule Herb,1,0:30,3,Hyrule Herb
+Ironshell Crab,1,0:50,8,Ironshell Crab
+Ironshroom,0.5,0:50,5,Ironshroom
+Mighty Bananas,0.5,0:50,5,Mighty Bananas
+Mighty Carp,1,0:50,10,Mighty Carp
+Mighty Porgy,1,0:50,10,Mighty Porgy
+Mighty Thistle,0,0:50,5,Mighty Thistle
+Monster Extract,,1/10/30:00,3,Monster Extract
+Palm Fruit,1,0:30,4,Palm Fruit
+Raw Bird Drumstick,1,0:30,8,Raw Bird Drumstick
+Raw Bird Thigh,1.5,0:30,15,Raw Bird Thigh
+Raw Gourmet Meat,3,0:30,35,Raw Gourmet Meat
+Raw Meat,1,0:30,8,Raw Meat
+Raw Prime Meat,1.5,0:30,15,Raw Prime Meat
+Raw Whole Bird,3,0:30,35,Raw Whole Bird
+Razorclaw Crab,1,0:50,8,Razorclaw Crab
+Razorshroom,0.5,0:50,5,Razorshroom
+Rock Salt,0,1:00,2,Rock Salt
+Rushroom,0.5,1:00,3,Rushroom
+Silent Princess,1,2:00,10,Silent Princess
+Silent Shroom,0.5,2:00,3,Silent Shroom
+Sizzlefin Trout,1,2:30,6,Sizzlefin Trout
+Sanke Carp,1,0:30,20,Sanke Carp
+Sneaky River Snail,1,2:00,6,Sneaky River Snail
+Spicy Pepper,0.5,2:30,3,Spicy Pepper
+Stamella Shroom,0.5,-,5,Stamella Shroom
+Staminoka Bass,1,-,18,Staminoka Bass
+Star Fragment,,0:30,300,Star Fragment
+Stealthfin Trout,1,2:00,10,Stealthfin Trout
+Sunshroom,0.5,2:30,4,Sunshroom
+Swift Carrot,0.5,1:00,4,Swift Carrot
+Swift Violet,0,1:00,10,Swift Violet
+Tabantha Wheat,1,1:00,3,Tabantha Wheat
+Voltfin Trout,1,2:30,6,Voltfin Trout
+Voltfruit,0.5,2:30,4,Voltfruit
+Warm Saffina,0,2:30,3,Warm Saffina
+Wildberry,0.5,0:30,3,Wildberry
+Zapshroom,0.5,2:30,4,Zapshroom
+Dinraal’s Scale,0.625,2:00,1,Dinraal’s Scale
+Dinraal’s Claw,1,4:00,1,Dinraal’s Claw
+Shard of Dinraal’s Fang,1.25,11:00,1,Shard of Dinraal’s Fang
+Shard of Dinraal’s Horn,1.875,30:00,1,Shard of Dinraal’s Horn
+Naydra’s Scale,0.625,2:00,1,Naydra’s Scale
+Naydra’s Claw,1,4:00,1,Naydra’s Claw
+Shard of Naydra’s Fang,1.25,11:00,1,Shard of Naydra’s Fang
+Shard of Naydra’s Horn,1.875,30:00,1,Shard of Naydra’s Horn
+Farosh’s Scale,0.625,2:00,150,Farosh’s Scale
+Farosh’s Claw,1,4:00,1,Farosh’s Claw
+Shard of Farosh’s Fang,1.25,11:00,250,Shard of Farosh’s Fang
+Shard of Farosh’s Horn,1.875,30:00,300,Shard of Farosh’s Horn

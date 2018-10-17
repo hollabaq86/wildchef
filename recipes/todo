@@ -1,0 +1,8 @@
+x update counts of ingredients
+x fix ingredients with spaces before words
+- hot encode effect
+- scale strength
+- scale duration
+- scale sell price
+- scale effect details (hearts)
+- if adventurous, dict list comprehension if else

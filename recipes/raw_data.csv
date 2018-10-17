@@ -1,0 +1,310 @@
+Food,Strength,Duration,Sell Price,Ingredients,Effect Type,Effect Details
+Hearty Fish Pie,,,50,"Hearty Salmon,Tabantha Wheat,Goat Butter,Rock Salt",Max Hearts,x+4
+Hearty Gourmet Meat and Seafood Fry,,,,"Hearty Durian,Big Hearty Radish,Raw Gourmet Meat,Hearty Bass,Hearty Blueshell Snail",Max Hearts,x+15
+Toasted Hearty Truffle,,,,Hearty Truffle,Hearts,3
+Blueshell Escargot,,,,Hearty Blueshell Snail,Hearts,4.5
+Seared Steak,,,,Raw Meat,Hearts,1.5 
+Seared Gourmet Steak,,,,Raw Gourmet Meat,Hearts,4.5
+Roasted Radish,,,,Hearty Radish,Hearts,3.75
+Roasted Bird Drumstick,,,,Raw Bird Drumstick,Hearts,1.5
+Roasted Bass,,,,Hyrule Bass,Hearts,1.5
+Roasted Acorn,,,,Acorn,Hearts,0.5
+Baked Palm Fruit,,,,Palm Fruit,Hearts,1.5
+Baked Apple,,,,Apple,Hearts,0.75
+Campfire Egg,,,,Egg,Hearts,1.5
+Hard Boiled Egg,,,,Egg,Hearts,1.5
+Veggie Rice Balls,,,,"Hylian Rice,Hyrule Herbs",Hearts,4
+Seafood Rice Balls,,,,"Hylian Rice,Hyrule Bass",Hearts,4
+Mushroom Rice Balls,,,,"Hylian Shroom,Hylian Rice",Hearts,3
+Meaty Rice Balls,,,,"Raw Meat,Hylian Rice",Hearts,4
+Spiced Meat Skewer,,,,"Raw Meat,Goron Spice",Hearts,2
+Herb Saute,,,,"Hyrule Herbs,Goron Spice",Hearts,2
+Fragrant Mushroom Saute,,,,"Hylian Shroom,Goron Spice",Hearts,1
+Glazed Veggies,,,,"Courser Bee Honey,Cool Safflina",Hearts,4
+Glazed Meat,,,,"Spicy Pepper,Raw Meat,Courser Bee Honey",,7
+Glazed Mushrooms,,,,"Endura Shroom,Courser Bee Honey",,6
+Meat and Seafood Fry,,,,"Hyrule Bass,Raw Bird Drumstick",Hearts,4
+Salt-Grilled Greens,,,,"Hyrule Herb,Rock Salt",Hearts,2
+Salt-Grilled Meat,,,,"Raw Bird Drumstick,Rock Salt",Hearts,2
+Salt-Grilled Mushrooms,,,,"Hylian Shroom,Rock Salt",Hearts,1
+Salt-Grilled Fish,,,,"Rock Salt,Hyrule Bass",Hearts,2
+Steamed Meat,,,,"Hyrule Herb,Raw Meat",Hearts,4
+Chilly Fruit and Mushroom Mix,Mid,30:00,,"Chillshroom x3,Hydromelon,Shard of Farosh's Horn",Chilled,
+Chilly Veggie Rice Balls,Low,11:00,,"Hylian Rice,Cool Safflina x4",Chilled,
+Chilly Steamed Mushrooms,Low,8:30,,"Cool Safflina x3,Hylian Shroom x2",Chilled,
+Chilly Fruit Pie,Low,6:10,,"Hydromelon,Tabantha Wheat,Cane Sugar,Goat Butter",Chilled,
+Chilly Mushroom Risotto,Low,5:50,,"Chillshroom,Hylian Rice,Goat Butter,Rock Salt",Chilled,
+Chilly Salt-Grilled Prime Meat,Low,4:00,,"Cool Safflina,Raw Prime Meat,Rock Salt",Chilled,
+Chilly Steamed Fish,Low,3:30,,"Hylian Shroom,Cool Safflina,Hyrule Bass",Chilled,
+Chilly Simmered Fruit,Low-Mid,30:00 or 10:00,,"Hydromelon x4,Monster Extract",Chilled,
+Mighty Crab Risotto,Low,4:10,40,"Hylian Rice,Goat Butter,Rock Salt,Razorclaw Crab",Attack,
+Mighty Crab Stir-Fry,Low,2:20,30,"Razorclaw Crab,Goron Spice",Attack,
+Mighty Herb Sautè,High,5:30,,"Mighty Porgy x2,Mighty Thistle,Bird Egg,Goron Spice",Attack,
+Mighty Porgy Meunière,High,4:50,100,"Tabantha Wheat,Goat Butter,Mighty Porgy x3",Attack,
+Mighty Veggie Rice Balls,Low,4:20,70,"Hylian Rice,Mighty Thistle x4",Attack,
+Mighty Fried Bananas,Low,3:10,30,"Mighty Bananas,Tabantha Wheat,Cane Sugar",Attack,
+Mighty Fried Wild Greens,Mid,3:00,50,"Mighty Bananas,Razorshroom,Hyrule Herb,Mighty Thistle",Attack,
+Mighty Simmered Fruit,Low,0:50,10,Mighty Bananas,Attack,
+Mighty Simmered Fruit,Low,1:40,20,"Mighty Bananas x4,Monster Extract",Attack,
+Mighty Simmered Fruit,Mid,2:30,40,"Bird Egg,Razorclaw Crab",Attack,
+Mighty Simmered Fruit,High,3:20,50,"Mighty Bananas,Mighty Thistle,Mighty Carp,Razorclaw Crab",Attack,
+Mighty Simmered Fruit,High,4:10,70,"Bird Egg,Hyrule Herb,Razorclaw Crab",Attack,
+Mighty Simmered Fruit,High,30:00,,"Mighty Carp x2,Razorshroom x2,Hylian Rice",Attack,
+Mighty Seafood Skewer,Low,2:20,20,"Hylian Rice,Razorclaw Crab x4",Attack,
+Mighty Seafood Skewer,High,3:20,70,"Mighty Bananas,Razorshroom,Raw Gourmet Meat,Goron Spice,Rock Salt",Attack,
+Mighty Steamed Fish,Low,2:50,30,"Mighty Bananas x3,Mighty Carp,Raw Meat",Attack,
+Mighty Seafood Rice Balls,High,4:20,100,"Mighty Bananas,Mighty Thistle,Raw Prime Meat,Mighty Porgy,Razorclaw Crab",Attack,
+Mighty Seafood Rice Balls,High,4:20,,"Mighty Bananas,Mighty Thistle,Raw Prime Meat,Mighty Porgy,Hylian Rice",Attack,
+Mighty Gourmet Spiced Meat Skewer,Low,4:40,,"Mighty Bananas x2,Mighty Thistle,Fresh Milk",Attack,
+Mighty Meat and Seafood Fry,High,3:50,,,Attack,
+Mighty Prime Meat and Seafood Fry,High,3:50,120,,Attack,
+Mighty Meaty Rice Balls,High,4:00,110,,Attack,
+Mighty Steamed Fruit,High,3:50,50,,Attack,
+Tough Meat-Stuffed Pumpkin,Low,1:20,30,"Tough Veggie Rice Balls, Hylian Rice",Defense,
+Tough Meaty Rice Balls,Low,2:20,40,"Tabantha Wheat,Goat Butter,Armored Porgy x3",Defense,
+Tough Milk,Low,2:10,20,"Apple,Fortified Pumpkin,Goat Butter",Defense,
+Tough Monster Soup,Low,3:10,,"Fortified Pumpkin,Raw Bird Drumstick",Defense,
+Tough Mushroom Skewer,Low,0:50,10,"Ironshroom,Raw Meat,Hylian Rice",Defense,
+Tough Mushroom Skewer,Low,1:40,20,"Fortified Pumpkin,Milk",Defense,
+Tough Mushroom Skewer,Mid,2:30,40,"Fortified Pumpkin,Milk,Tabantha Wheat,Goat Butter,Monster Extract",Defense,
+Tough Mushroom Skewer,High,3:20,50,Ironshroom,Defense,
+Tough Mushroom Skewer,High,4:10,70,Ironshroom x2,Defense,
+Tough Prime Meat and Rice Bowl,Low,3:20,60,Ironshroom x3,Defense,
+Tough Steamed Meat,Low,1:20,30,Ironshroom x4,Defense,
+Tough Meaty Rice Balls,Low,4:10,70,Ironshroom x5,Defense,
+Tough Fried Wild Greens,High,4:10,100,"Ironshroom,Raw Prime Meat,Hylian Rice,Rock Salt",Defense,
+Tough Steamed Mushrooms,Low,1:40,20,"Armoranth,Raw Meat",Defense,
+Tough Steamed Mushrooms,Mid,2:30,40,"Armoranth,Fortified Pumpkin,Raw Bird Drumstick,Hylian Rice,Rock Salt",Defense,
+Tough Steamed Mushrooms,High,3:20,50,"Armoranth,Fortified Pumpkin,Ironshroom,Armored Carp,Ironshell Crab",Defense,
+Tough Mushroom Skewer,High,4:10,70,"Armoranth,Ironshroom",Defense,
+Tough Meat and Mushroom Skewer,High,3:50,,"Armoranth,Ironshroom x2",Defense,
+Tough Prime Meat and Seafood Fry,High,3:50,120,"Armoranth,Ironshroom x3",Defense,
+Tough Meat-Stuffed Pumpkin,High,3:50,110,Ironshroom x5,Defense,
+Tough Omelet,High,4:50,70,"Raw Meat,Ironshroom x4",Defense,
+Tough Pumpkin Stew,,,,"Ironshroom,Armoranth,Raw Prime Meat,Armored Porgy,Ironshell Crab",Defense,
+Tough Salt-Grilled Fish,Low,4:30,80,"Ironshroom,Armoranth,Fortified Pumpkin,Raw Prime Meat,Ironshell Crab",Defense,
+Tough Salt-Grilled Fish,High,4:50,90,"Ironshroom,Fresh Milk,Rock Salt,Armored Porgy x2",Defense,
+Tough Pumpkin Stew,,,,"Fortified Pumpkin,Fresh Milk,Tabantha Wheat,Goat Butter",Defense,
+Tough Salt-Grilled Fish,Low,4:30,80,"Hylian Shroom,Fresh Milk,Rock Salt,Armored Carp x2",Defense,
+Tough Salt-Grilled ~Fish,High,4:50,90,"Ironshroom,Fresh Milk,Rock Salt,Armored Porgy x2",Defense,
+Apple Pie,,,30,"Apple,Tabantha Wheat,Cane Sugar,Goat Butter",Hearts,3
+Apple Pie,,,50,"Apple x2,Tabantha Wheat,Cane Sugar,Goat Butter",Hearts,7
+Meat Pie,,,110,"Tabantha Wheat,Goat Butter,Rock Salt,Raw Gourmet Meat x2",Hearts,14
+Fruit Pie,,,30,"Wildberry,Tabantha Wheat,Cane Sugar,Goat Butter",Hearts,3
+Monster Cake,,,,"Monster Extract,Tabantha Wheat,Cane Sugar,Goat Butter.",Hearts,0.25
+Nutcake,,,,"Acorn,Tabantha Wheat,Cane Sugar,Goat Butter",Hearts,3
+Fruit cake,,,,"Apple,Wildberry,Tabantha Wheat,Cane Sugar",Hearts,5
+Carrot Cake,,,,"Swift carrot,Endura carrot,Tabantha Wheat,Cane sugar,Goat butter",Hearts,7
+Egg Pudding,,,,"Fresh Milk,Bird Egg,Cane Sugar",Hearts,3
+Egg Tart,,,,"Bird Egg,Tabantha Wheat,Cane Sugar,Goat Butter",Hearts,4
+Mushroom risotto,,,,"Hylian Shroom,Hylian Rice,Goat Butter,Rock Salt",Hearts,3
+Seafood Meunière,,,,"Tabantha Wheat,Goat Butter,Hyrule Bass",Hearts,4
+Porgy Meunière,,,,"Tabantha Wheat,Goat Butter,Armored Porgy,Mighty Porgy x2",Hearts,8
+Creamy Heart Soup,,,,"Fresh Milk,Voltfruit,Hydromelon,Hearty Radish x2",Hearts,13
+Fried Egg and Rice,,,,"Hylian Rice,Bird Egg",Hearts,4
+Hot Buttered Apple,,,,"Apple,Goat Butter",Hearts,2
+Meat and Rice Bowl,,,,"Raw Meat,Hylian Rice,Rock Salt",Hearts,4
+Vegetable Curry,,,,"Swift Carrot,Endura Carrot,Hylian Rice,Goron Spice",Hearts,7
+Gourmet Meat Curry,,,,"Raw Gourmet Meat x3,Hylian Rice,Goron Spice",Hearts,20
+Gourmet Poultry Curry,,,,"Raw Whole Bird x3,Hylian Rice,Goron Spice",,20
+Monster Curry,,,,"Hylian Rice,Goron Spice,Monster Extract",Hearts,0.25
+Poultry Pilaf,,,,"Raw Bird Drumstick x2,Hylian Rice,Bird Egg,Goat Butter",Hearts,8
+Curry Pilaf,,,,"Hylian Rice x3,Goron Spice,Goat Butter",Hearts,6
+Omelet,,,,Bird Egg,Hearts,2
+Pepper Steak,,,,"Spicy Pepper,Mighty Thistle,Raw Bird Drumstick",,3
+Plain Crepe,,,,"Fresh Milk,Bird Egg,Tabantha Wheat,Cane Sugar",Hearts,5
+Meat Stew,,,,"Raw Meat,Fresh Milk,Tabantha Wheat,Goat Butter",Hearts,5
+Seafood Paella,,,,"Hylian Rice,Goat Butter,Rock Salt,Mighty Porgy,Hearty Blueshell Snail",,12
+Wheat Bread,,,,"Tabantha Wheat,Rock Salt",Hearts,2
+Milk,,,,Fresh Milk,Hearts,1.5
+Simmered Fruit,,,,Apple,Hearts,1
+Mushroom Skewer,,,,Hyrule Shroom,Hearts,1
+Fried Wild Greens,,,,Hyrule Herb,Hearts,2
+Fish Skewer,,,,Hyrule Bass,Hearts,2
+Fruit and Mushroom Mix,,,,"Apple,Hylian Shroom",Hearts,2
+Fish and Mushroom Skewer,,,,"Hylian Shroom,Hyrule Bass",Hearts,3
+Meat and Mushroom Skewer,,,,"Raw Meat,Hylian Shroom",Hearts,3
+Steamed Fruit,,,,"Apple,Hyrule Herb",Hearts,3
+Steamed Mushrooms,,,,"Hyrule Shroom,Hyrule Herb",Hearts,3
+Steamed Fish,,,,"Hyrule Herb,Hyrule Bass",Hearts,4
+Acorn,,0:50,,Acorn,,0.25
+Apple,,0:30,3,Apple,,0.5
+Armoranth,,0:50,5,Armoranth,,0
+Armored Carp,,0:50,10,Armored Carp,,1
+Armored Porgy,,0:50,10,Armored Porgy,,1
+Big Hearty Radish,,,15,Big Hearty Radish,,4
+Big Hearty Truffle,,,15,Big Hearty Truffle,,3
+Bird Egg,,1:30,3,Bird Egg,Hearts,1
+Blue Nightshade,,2:00,4,Blue Nightshade,,0
+Bright-eyed Crab,,,10,Bright-eyed Crab,,1
+Cane Sugar,,1:20,3,Cane Sugar,,0
+Chickaloo Tree Nut,,0:40,3,Chickaloo Tree Nut,,0.25
+Chillfin Trout,,2:30,6,Chillfin Trout,,1
+Chillshroom,,2:30,4,Chillshroom,,0.5
+Cool Saffina,,2:30,3,Cool Saffina,,0
+Courser Bee Honey,,,10,Courser Bee Honey,,2
+Electric Saffina,,2:30,3,Electric Saffina,,0
+Endura Carrot,,,30,Endura Carrot,,2
+Endura Shroom,,,6,Endura Shroom,,1
+Fairy,,0:30,2,Fairy,,5
+Fleet-Lotus Seeds,,1:00,5,Fleet-Lotus Seeds,,0.5
+Fortified Pumpkin,,0:50,5,Fortified Pumpkin,,0.5
+Fresh Milk,,1:20,3,Fresh Milk,,0.5
+Goat Butter,,1:20,3,Goat Butter,,0
+Goron Spice,,1:30,4,Goron Spice,,0
+Hearty Bass,,,18,Hearty Bass,,2
+Hearty Blueshell Snail,,,15,Hearty Blueshell Snail,,3
+Hearty Durian,,,15,Hearty Durian,,3
+Hearty Radish,,,8,Hearty Radish,,2.5
+Hearty Salmon,,,10,Hearty Salmon,,4
+Hearty Truffle,,,6,Hearty Truffle,,2
+Hydromelon,,2:30,4,Hydromelon,,0.5
+Hylian Rice,,1:00,3,Hylian Rice,,1
+Hylian Shroom,,0:30,3,Hylian Shroom,Hearts,0.5
+Hyrule Bass,,0:30,6,Hyrule Bass,Hearts,1
+Hyrule Herb,,0:30,3,Hyrule Herb,,1
+Ironshell Crab,,0:50,8,Ironshell Crab,,1
+Ironshroom,,0:50,5,Ironshroom,,0.5
+Mighty Bananas,,0:50,5,Mighty Bananas,,0.5
+Mighty Carp,,0:50,10,Mighty Carp,,1
+Mighty Porgy,,0:50,10,Mighty Porgy,,1
+Mighty Thistle,,0:50,5,Mighty Thistle,,0
+Monster Extract,,,3,Monster Extract,,
+Palm Fruit,,0:30,4,Palm Fruit,Hearts,1
+Raw Bird Drumstick,,0:30,8,Raw Bird Drumstick,Hearts,1
+Raw Bird Thigh,,0:30,15,Raw Bird Thigh,Hearts,1.5
+Raw Gourmet Meat,,0:30,35,Raw Gourmet Meat,Hearts,3
+Raw Meat,,0:30,8,Raw Meat,Hearts,1
+Raw Prime Meat,,0:30,15,Raw Prime Meat,Hearts,1.5
+Raw Whole Bird,,0:30,35,Raw Whole Bird,Hearts,3
+Razorclaw Crab,,0:50,8,Razorclaw Crab,,1
+Razorshroom,,0:50,5,Razorshroom,,0.5
+Rock Salt,,1:00,2,Rock Salt,,0
+Rushroom,,1:00,3,Rushroom,,0.5
+Silent Princess,,2:00,10,Silent Princess,,1
+Silent Shroom,,2:00,3,Silent Shroom,,0.5
+Sizzlefin Trout,,2:30,6,Sizzlefin Trout,,1
+Sanke Carp,,0:30,20,Sanke Carp,,1
+Sneaky River Snail,,2:00,6,Sneaky River Snail,,1
+Spicy Pepper,,2:30,3,Spicy Pepper,,0.5
+Stamella Shroom,,,5,Stamella Shroom,,0.5
+Staminoka Bass,,,18,Staminoka Bass,,1
+Star Fragment,,0:30,300,Star Fragment,,
+Stealthfin Trout,,2:00,10,Stealthfin Trout,,1
+Sunshroom,,2:30,4,Sunshroom,,0.5
+Swift Carrot,,1:00,4,Swift Carrot,,0.5
+Swift Violet,,1:00,10,Swift Violet,,0
+Tabantha Wheat,,1:00,3,Tabantha Wheat,,1
+Voltfin Trout,,2:30,6,Voltfin Trout,,1
+Voltfruit,,2:30,4,Voltfruit,,0.5
+Warm Saffina,,2:30,3,Warm Saffina,,0
+Wildberry,,0:30,3,Wildberry,,0.5
+Zapshroom,,2:30,4,Zapshroom,,0.5
+Dinraal’s Scale,,2:00,1,Dinraal’s Scale,,0.625
+Dinraal’s Claw,,4:00,1,Dinraal’s Claw,,1
+Shard of Dinraal’s Fang,,11:00,1,Shard of Dinraal’s Fang,,1.25
+Shard of Dinraal’s Horn,,30:00,1,Shard of Dinraal’s Horn,,1.875
+Naydra’s Scale,,2:00,1,Naydra’s Scale,,0.625
+Naydra’s Claw,,4:00,1,Naydra’s Claw,,1
+Shard of Naydra’s Fang,,11:00,1,Shard of Naydra’s Fang,,1.25
+Shard of Naydra’s Horn,,30:00,1,Shard of Naydra’s Horn,,1.875
+Farosh’s Scale,,2:00,150,Farosh’s Scale,,0.625
+Farosh’s Claw,,4:00,1,Farosh’s Claw,,1
+Shard of Farosh’s Fang,,11:00,250,Shard of Farosh’s Fang,,1.25
+Shard of Farosh’s Horn,,30:00,300,Shard of Farosh’s Horn,,1.875
+Hearty Clam Chowder,,,60,"Fresh Milk,Tabantha Wheat,Goat Butter,Hearty Blueshell Snail",Max Hearts,x+3
+Hearty Seafood Rice Balls,,,60,"Fresh Milk,Tabantha Wheat,Goat Butter,Hearty Blueshell Snail",Max Hearts,x+3
+Hearty Seafood Rice Balls,,,,"Hylian Rice,Hearty Salmon x4",Max Hearts,x+16
+Hearty Veggie Rice Balls,,,100,"Hearty Radish x4,Hylian Rice",Max Hearts,x+12
+Hearty Fried Wild Greens,,,20,Hearty Radish,Max Hearts,x+3
+Hearty Fried Wild Greens,,,150,Hearty Radish x4,Max Hearts,x+12
+Hearty Fruit and Mushroom Mix,,,40,"Hearty Durian,Hearty Truffle",Max Hearts,x+5
+Hearty Meat Skewer,,,50,"Hearty Durian,Raw Meat",Max Hearts,x+4
+Hearty Seafood Skewer,,,30,Hearty Blueshell Snail,Max Hearts,x+3
+Hearty Mushroom Skewer,,,10,Hearty Truffle,Hearts,x+1
+Hearty Mushroom Skewer,,,,"Hearty Durian,Hearty Truffle,Big Hearty Truffle",Max Hearts,x+9
+Hearty Meat and Mushroom Skewer,,,40,"Hearty Truffle,Raw Prime Meat",Max Hearts,x+1
+Hearty Omelet,,,20,"Hearty Truffle,Bird Egg",Max Hearts,x+1
+Hearty Simmered Fruit,,,30,Hearty Durian,Max Hearts,x+4
+Hearty Salmon Meuniére,,,,"Hearty Salmon,Tabantha Wheat,Goat Butter",Max Hearts,x+4
+Hearty Steamed Meat,,,60,"Hearty Truffle,Raw Prime Meat,Hearty Radish",Max Hearts,x+4
+Hearty Steamed Meat,,,120,"Hearty Truffle x2,Raw Prime Meat,Hearty Radish x2",Max Hearts,x+8
+Hearty Steamed Meat,,,190,"Hearty Radish x4,Raw Gourmet Meat",Max Hearts,x+12
+Hearty Steamed Meat,,,250,"Hearty Durian x3,Hearty Radish,Raw Gourmet Meat",Max Hearts,x+15
+Hearty Steamed Meat,,,,"Big Hearty Radish x2,Hearty Durian,Raw Gourmet Meat",Max Hearts,x+15
+Hearty Steamed Meat,,,210,"Big Hearty Radish x3,Hearty Durian,Raw Prime Meat",Max Hearts,x+20
+Hearty Steamed Meat,,,210,"Big Hearty Radish x4,Raw Prime Meat",Max Hearts,x+20
+Hearty Salt-Grilled Prime Meat,,,110,"Hearty Truffle,Hearty Radish x2,Raw Prime Meat,Rock Salt",Max Hearts,x+7
+Hearty Salt-Grilled Prime Meat,,,120,"Hearty Radish x3,Raw Prime Meat,Rock Salt",Max Hearts,x+9
+Hearty Salt-Grilled Prime Meat,,,140,"Hearty Durian,Hearty Radish x2,Raw Prime Meat,Rock Salt",Max Hearts,x+11
+Hearty Steamed Fish,,,60,"Palm Fruit x2,Hearty Radish x2,Hyrule Bass",Max Hearts,x+7
+Hearty Steamed Fish,,,90,"Hearty Blueshell Snail,Big Hearty Radish,Hearty Truffle",Max Hearts,x+9
+Hearty Steamed Fish,,,190,"Hearty Durian x2,Big Hearty Radish,Hearty Blueshell Snail x2",Max Hearts,x+19
+Hearty Milk,,,100,"Big Hearty Radish x4,Milk",Max Hearts,x+9
+Hearty Seafood Fried Rice,,,,"Hylian Rice,Rock Salt,Hearty Blueshell Snail x2",Max Hearts,x+6
+Hearty Monster Rice Balls,,,,"Hearty Durian,Big Hearty Radish,Raw Gourmet Meat,Hylian Rice,Hearty Blueshell Snail",Max Hearts,x+5
+Hearty Simmered Fruit,,,210,"Hearty Durian,Monster Extract,Hylian Rice,Rock Salt",Max Hearts,x+20
+Hearty Fish Pie,,,50,Hearty Durian x5,Max Hearts,x+4
+Spicy Steamed Mushrooms,Medium,30:00,,"Sunshroom x3,Warm Safflina,Shard of Farosh's Horn",Spiced,
+Spicy Pepper Steak,Low,10:30,,"Spicy Pepper x4,Raw Meat",Spiced,
+Spicy Mushroom Skewer,Medium,7:30,,Sunshroom x3,Spiced,
+Spicy Mushroom Skewer,Low,2:30,,Sunshroom,Spiced,
+Spicy Fruit and Mushroom Mix,Low,6:30,,"Hylian Shroom x3,Spicy Pepper x2",Spiced,
+Spicy Meat and Mushroom Skewer,Low,3:30,,"Acorn,Sunshroom,Raw Bird Drumstick",Spiced,
+Spicy Meat and Seafood Fry,Low,3:30,,"Hyrule Bass,Raw Meat,Spicy Pepper",Spiced,
+Spicy Pepper Seafood,Low,3:00,,"Hyrule Bass,Spicy Pepper",Spiced,
+Spicy Pepper Steak,Low,3:00,,"Spicy Pepper,Raw Bird Drumstick",Spiced,
+Spicy Salt-Grilled Meat,Low,4:00,,"Spicy Pepper,Raw Bird Drumstick,Rock Salt",Spiced,
+Spicy Salt-Grilled Prime Meat,Low,4:00,,"Spicy Pepper,Raw Prime Meat,Rock Salt",Spiced,
+Spicy Salt-Grilled Gourmet Meat,,5:00,,"Spicy Pepper,Raw Prime Meat,Raw Gourmet Meat,Rock Salt",Spiced,
+Spicy Simmered Fruit,Low,3:00,,"Apple,Spicy Pepper",Spiced,
+Spicy Simmered Fruit,Low,10:00,,"Spicy Peppers x4,Monster Extract",Spiced,
+Spicy Sauteed Peppers,Low,2:30,,Spicy Pepper,Spiced,
+Spicy Veggie Rice Balls,Low,11:00,,"Hylian Rice,Warm Safflina x4",Spiced,
+Spicy Meaty Rice Balls,Low,6:40,,"Raw Meat,Hylian Rice,Fresh Milk,Goat Butter,Spicy Pepper",Spiced,
+Spicy Monster Curry,Medium,11:30,,"Gourmet Meat,Hylian Rice,Goron Spice,Monster Extract,Spicy Pepper",Spiced,
+Spicy Sauteed Peppers,Low,12:30,,Spicy Pepper x5,Spiced,
+Spicy Fish Skewer,Medium,30:00,,"Sizzlefin Trout,Fairy x3,[Dragon]'s Horn Shard",Spiced,
+Spicy Fruit and Mushroom Mix,Medium,12:30,,"Spicy Pepper x4,Sunshroom",Spiced,
+Enduring Fried Wild Greens,,,,Endura Carrot,"Max Stamina,Hearts",4
+Enduring Meat Curry,,,,"Endura Carrot,Raw Meat,Hylian Rice,Goron Spice","Max Stamina,Hearts",8
+Enduring Milk,,,,"Enduring Carrot,Fresh Milk","Max Stamina,Hearts",5
+Energizing Seafood Skewer,,,,Bright-eyed Crab x5,"Max Stamina,Hearts",5
+Enduring Carrot Cake,,,,"Endura Carrot x2,Tabantha Wheat,Goat Butter,Cane Sugar",,
+Enduring Salt-Grilled Prime Meat,,,,"Endura Carrot,Raw Prime Meat,Rock Salt","Max Stamina,Hearts",11
+Enduring Steamed Meat,,,,"Endura Carrot,Raw Prime Meat","Max Stamina,Hearts",7
+Enduring Vegetable Curry,,,,"Endura Carrot,Hylian Rice,Goron Spice","Max Stamina,Hearts",6
+Energizing Mushroom Skewer,,,,Stamella Shroom,"Stamina,Hearts",1
+Energizing Fish and Mushroom Skewer,,,,"Stamella Shroom,Hyrule Bass","Stamina,Hearts",3
+Energizing Fish Skewer,,,,Fresh Fish,Stamina,
+Energizing Fish Skewer,,,,Staminoka Bass,"Stamina,Hearts",2
+Energizing Salt-Grilled Fish,,,,"Staminoka Bass x2,Stamella Shroom x2,Rock Salt","Max Stamina,Hearts",6
+Energizing Glazed Meat,,,,"Raw Meat,Courser Bee Honey","Stamina,Hearts",6
+Energizing Honeyed Apple,,,,"Apple,Courser Bee Honey","Stamina,Hearts",5
+Energizing Meaty Rice Balls,,,,"Raw Meat,Hylian Rice,Courser Bee Honey","Stamina,Hearts",8
+Energizing Steamed Meat,,,,"Raw Meat,Hyrule Herb,Stamella Shroom","Stamina,Hearts",5
+Enduring Steamed Meat,,,,"Endura Shroom x2,Endura Carrot x2,Raw Gourmet Meat","Max Stamina,Hearts",21
+Enduring Steamed Mushrooms,,,,"Endura Shroom x3,Endura Carrot x2","Max Stamina,Hearts",14
+Energizing Glazed Meat,,,,"Stamella Shroom,Raw Prime Meat,Courser Bee Honey,Rock Salt,Staminoka Bass","Max Stamina,Hearts",9
+Energizing Seafood Rice Balls,,,,"Stamella Shroom,Staminoka Bass,Hylian Rice","Stamina,Hearts",5
+Sneaky Fried Wild Greens,High,30:00,,"Silent Princess x3,Fairy,Shard of Farosh's Horn",Stealth,
+Sneaky Fried Wild Greens,High,10:00,140,Silent Princess x5,Stealth,
+Sneaky Mushroom Skewer,High,10:00,50,Silent Shroom x5,Stealth,
+Sneaky Steamed Fish,High,10:00,80,"Silent Princess,Silent Shroom x2,Sneaky River Snail x2",Stealth,
+Sneaky Veggie Rice Balls,High,9:00,120,"Hylian Rice,Silent Princess x4",Stealth,
+Sneaky Meat Skewer,High,7:00,130,"Silent Princess x3,Raw Meat,Raw Bird Drumstick",Stealth,
+Sneaky Steamed Mushrooms,Mid,10:00,60,"Silent Shroom,Blue Nightshade x4",Stealth,
+Sneaky Mushroom Skewer,Mid,8:00,30,Silent Shroom x4,Stealth,
+Sneaky Mushroom Skewer,Mid,6:00,20,Silent Shroom x3,Stealth,
+Sneaky Meat Skewer,Mid,5:50,110,"Silent Princess x2,Raw Meat,Raw Bird Drumstick,Acorn",Stealth,
+Sneaky Seafood Meuniere,Low,10:40,40,"Sneaky River Snail,Tabantha Wheat,Goat Butter,Fresh Milk",Stealth,
+Sneaky Veggie Rice Balls,Low,9:00,60,"Hylian Rice,Blue Nightshade x4",Stealth,
+Sneaky Steamed Mushrooms,Low,8:00,40,"Silent Shroom,Blue Nightshade x3",Stealth,
+Sneaky Steamed Mushrooms,Low,6:00,30,"Silent Shroom,Blue Nightshade x2",Stealth,
+Sneaky Steamed Fish,Low,6:00,30,"Silent Shroom,Blue Nightshade,Sneaky River Snail",Stealth,
+Sneaky Steamed Mushrooms,Low,4:00,20,"Silent Shroom,Blue Nightshade",Stealth,
+Sneaky Mushroom Skewer,Low,4:00,10,Silent Shroom x2,Stealth,
+Sneaky Mushroom Skewer,Low,2:30,10,"Silent Shroom,Hylian Shroom",Stealth,
+Sneaky Mushroom Skewer,Low,2:00,10,Silent Shroom,Stealth,
+Sneaky Seafood Skewer,Low,2:00,10,Sneaky River Snail,Stealth,
+Sneaky Fried Wild Greens,Low,2:00,10,Blue Nightshade,Stealth,

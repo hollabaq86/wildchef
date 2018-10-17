@@ -1,0 +1,37 @@
+Food,Effect,Duration,Sell Price,Ingredients
+Hearty Clam Chowder,Fully restore hearts +3 temporary maximum hearts,"n/a",60,"Fresh Milk,Tabantha Wheat,Goat Butter,Hearty Blueshell Snail"
+Hearty Seafood Rice Balls,Fully restore hearts +3 temporary maximum hearts,"n/a",60,"Fresh Milk,Tabantha Wheat,Goat Butter,Hearty Blueshell Snail"
+Hearty Seafood Rice Balls,Fully restore hearts + 16 temporary maximum hearts,"n/a","","Hylian Rice,Hearty Salmon x4"
+Hearty Veggie Rice Balls,Fully restore hearts +12 temporary maximum hearts,"n/a",100,"Hearty Radish x4,Hylian Rice"
+Hearty Fried Wild Greens,Fully restore hearts +3 temporary maximum hearts,"n/a",20,Hearty Radish
+Hearty Fried Wild Greens,Fully restore hearts +12 temporary maximum hearts,"n/a",150,Hearty Radish x4
+Hearty Fruit and Mushroom Mix,Fully restore hearts + 5 temporary maximum hearts,"n/a",40,"Hearty Durian,Hearty Truffle"
+Hearty Meat Skewer,Fully restore hearts + 4 temporary maximum hearts,"n/a",50,"Hearty Durian,Raw Meat"
+Hearty Seafood Skewer,Fully restore hearts + 3 temporary maximum hearts,"n/a",30,Hearty Blueshell Snail
+Hearty Mushroom Skewer,Fully restore hearts + 1 temporary maximum heart,"n/a",10,Hearty Truffle
+Hearty Mushroom Skewer,Fully restore hearts + 9 temporary maximum hearts,"n/a","","Hearty Durian,Hearty Truffle,Big Hearty Truffle"
+Hearty Meat and Mushroom Skewer,Fully restore hearts + 1 temporary maximum hearts,"n/a",40,"Hearty Truffle,Raw Prime Meat"
+Hearty Omelet,Fully restore hearts + 1 temporary maximum heart,"n/a",20,"Hearty Truffle,Bird Egg"
+Hearty Simmered Fruit,Fully restore hearts + 4 temporary maximum hearts,"n/a",30,Hearty Durian
+Hearty Salmon Meuniére,Fully restore hearts + 4 temporary maximum hearts,"n/a","","Hearty Salmon,Tabantha Wheat,Goat Butter"
+Hearty Steamed Meat,Fully restore hearts + 4 temporary maximum hearts,"n/a",60,"Hearty Truffle,Raw Prime Meat,Hearty Radish"
+Hearty Steamed Meat,Fully restore hearts + 8 temporary maximum hearts,"n/a",120,"Hearty Truffle x2,Raw Prime Meat,Hearty Radish x2"
+Hearty Steamed Meat,Fully restore hearts + 12 temporary maximum hearts,"n/a",190,"Hearty Radish x4,Raw Gourmet Meat"
+Hearty Steamed Meat,Fully restore hearts + 15 temporary maximum hearts,"n/a",250,"Hearty Durian x3,Hearty Radish,Raw Gourmet Meat"
+Hearty Steamed Meat,Fully restore hearts + 15 temporary maximum,"n/a","","Big Hearty Radish x2,Hearty Durian,Raw Gourmet Meat"
+Hearty Steamed Meat,Fully restore hearts + 20 temporary maximum hearts,"n/a",210,"Big Hearty Radish x3,Hearty Durian,Raw Prime Meat"
+Hearty Steamed Meat,Fully restore hearts + 20 temporary maximum hearts,"n/a",210,"Big Hearty Radish x4,Raw Prime Meat"
+Hearty Salt-Grilled Prime Meat,Fully restore hearts + 7 temporary maximum hearts,"n/a",110,"Hearty Truffle,Hearty Radish x2,Raw Prime Meat,Rock Salt"
+Hearty Salt-Grilled Prime Meat,Fully restore hearts + 9 temporary maximum hearts,"n/a",120,"Hearty Radish x3,Raw Prime Meat,Rock Salt"
+Hearty Salt-Grilled Prime Meat,Fully restore hearts + 11 temporary maximum hearts,"n/a",140,"Hearty Durian,Hearty Radish x2,Raw Prime Meat,Rock Salt"
+Hearty Steamed Fish,Fully restore hearts + 7 temporary maximum hearts,"n/a",60,"Palm Fruit x2,Hearty Radish x2,Hyrule Bass"
+Hearty Steamed Fish,Fully restore hearts + 9 temporary maximum hearts,"n/a",90,"Hearty Blueshell Snail,Big Hearty Radish,Hearty Truffle"
+Hearty Steamed Fish,Fully restore hearts + 19 temporary maximum hearts,"n/a",190,"Hearty Durian x2,Big Hearty Radish,Hearty Blueshell Snail x2"
+Hearty Milk,Fully restore hearts + 9 temporary maximum hearts,"n/a",100,"Big Hearty Radish x4,Milk"
+Hearty Seafood Fried Rice,Fully restore hearts + 6 temporary maximum hearts,"n/a","","Hylian Rice,Rock Salt,Hearty Blueshell Snail x2"
+Hearty Gourmet Meat and Seafood Fry,Fully restore hearts + 15 temporary maximum hearts,"n/a","","Hearty Durian,Big Hearty Radish,Raw Gourmet Meat,Hearty Bass
+Hearty Meaty Rice Balls,Fully restore hearts + 13 temporary maximum hearts,"n/a",180,Hearty Blueshell Snail"
+Hearty Monster Rice Balls,Fully restore hearts + 5 temporary maximum hearts,"n/a","","Hearty Durian,Big Hearty Radish,Raw Gourmet Meat,Hylian Rice,Hearty Blueshell Snail"
+Hearty Simmered Fruit,Fully restore hearts + 20 temporary maximum hearts,"n/a",210,"Hearty Durian,Monster Extract,Hylian Rice,Rock Salt"
+Hearty Fish Pie,Fully restore hearts + 4 temporary maximum hearts,"n/a",50,Hearty Durian x5
+,"Hearty Salmon,Tabantha Wheat,Goat Butter,Rock Salt"

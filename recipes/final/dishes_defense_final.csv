@@ -1,0 +1,31 @@
+Food,Strength,Duration,Sell Price,Ingredients
+Tough Fish and Mushroom Skewer,"Armoranth x4""",Low,Restore two hearts,"Hylian Shroom,Armored Carp,Low,1:20,Restore three hearts,30
+Tough Porgy Meunière,High,4:50,100,Tough Seafood Skewer,Ironshell Crab x5,High,4:10,also restores six hearts,
+Tough Hot Buttered Apple,Low,2:40,30,Tough Fried Wild Greens,Fortified Pumpkin,Low,0:50,Restore one heart,10
+Tough Meat-Stuffed Pumpkin,Low,1:20,30,Tough Veggie Rice Balls,Hylian Rice"
+Tough Meaty Rice Balls,Low,2:20,40,"Tabantha Wheat,Goat Butter,Armored Porgy x3"
+Tough Milk,Low,2:10,20,"Apple,Fortified Pumpkin,Goat Butter"
+Tough Monster Soup,Low,3:10,,"Fortified Pumpkin,Raw Bird Drumstick"
+Tough Mushroom Skewer,Low,0:50,10,"Ironshroom,Raw Meat,Hylian Rice"
+Tough Mushroom Skewer,Low,1:40,20,"Fortified Pumpkin,Milk"
+Tough Mushroom Skewer,Mid,2:30,40,"Fortified Pumpkin,Milk,Tabantha Wheat,Goat Butter,Monster Extract"
+Tough Mushroom Skewer,High,3:20,50,Ironshroom
+Tough Mushroom Skewer,High,4:10,70,Ironshroom x2
+Tough Prime Meat and Rice Bowl,Low,3:20,60,Ironshroom x3
+Tough Steamed Meat,Low,1:20,30,Ironshroom x4
+Tough Meaty Rice Balls,Low,4:10,70,Ironshroom x5
+Tough Fried Wild Greens,High,4:10,100,"Ironshroom,Raw Prime Meat,Hylian Rice,Rock Salt"
+Tough Steamed Mushrooms,Low,1:40,20,"Armoranth,Raw Meat"
+Tough Steamed Mushrooms,Mid,2:30,40,"Armoranth,Fortified Pumpkin,Raw Bird Drumstick,Hylian Rice,Rock Salt"
+Tough Steamed Mushrooms,High,3:20,50,"Armoranth,Fortified Pumpkin,Ironshroom,Armored Carp,Ironshell Crab"
+Tough Mushroom Skewer,High,4:10,70,"Armoranth,Ironshroom"
+Tough Meat and Mushroom Skewer,High,3:50,,"Armoranth,Ironshroom x2"
+Tough Prime Meat and Seafood Fry,High,3:50,120,"Armoranth,Ironshroom x3"
+Tough Meat-Stuffed Pumpkin,High,3:50,110,Ironshroom x5
+Tough Omelet,High,4:50,70,"Raw Meat,Ironshroom x4"
+Tough Pumpkin Stew,,,,"Ironshroom,Armoranth,Raw Prime Meat,Armored Porgy,Ironshell Crab"
+Tough Salt-Grilled Fish,Low,4:30,80,"Ironshroom,Armoranth,Fortified Pumpkin,Raw Prime Meat,Ironshell Crab"
+Tough Salt-Grilled Fish,High,4:50,90,"Ironshroom,Fresh Milk,Rock Salt,Armored Porgy x2"
+Tough Pumpkin Stew,,,,"Fortified Pumpkin,Fresh Milk,Tabantha Wheat,Goat Butter"
+Tough Salt-Grilled Fish,Low,4:30,80,"Hylian Shroom,Fresh Milk,Rock Salt,Armored Carp x2"
+Tough Salt-Grilled ~Fish,High,4:50,90,"Ironshroom,Fresh Milk,Rock Salt,Armored Porgy x2"

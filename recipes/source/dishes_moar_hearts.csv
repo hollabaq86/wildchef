@@ -1,0 +1,36 @@
+Food,Ingredients,Effect,Notes,Sell Price
+Hearty Clam Chowder,"Fresh Milk,Tabantha Wheat,Goat Butter,Hearty Blueshell Snail","Fully restore hearts +3 temporary maximum hearts","This recipe only works with the Hearty Blueshell Snail, any other snails will result in a different dish",60
+Hearty Seafood Rice Balls,"Fresh Milk,Tabantha Wheat,Goat Butter,Hearty Blueshell Snail","Fully restore hearts +3 temporary maximum hearts",This happened when using the Hearty Clam Chowder recipe. (Be careful not to put in rice instead of wheat. They're very similar.),60
+Hearty Seafood Rice Balls,"Hylian Rice,Hearty Salmon x4",Fully restore hearts + 16 temporary maximum hearts,17 extra hearts if made from 11:30-12:00 during bloodmoon.,
+Hearty Veggie Rice Balls,"Hearty Radish x4,Hylian Rice","Fully restore hearts +12 temporary maximum hearts","If you use four Big Hearty Radish instead, it will result in a full recovery and 20 temporary hearts.",100
+Hearty Fried Wild Greens,Hearty Radish,"Fully restore hearts +3 temporary maximum hearts",,20
+Hearty Fried Wild Greens,Hearty Radish x4,"Fully restore hearts +12 temporary maximum hearts",,150
+Hearty Fruit and Mushroom Mix,"Hearty Durian,Hearty Truffle",Fully restore hearts + 5 temporary maximum hearts,,40
+Hearty Meat Skewer,"Hearty Durian,Raw Meat",Fully restore hearts + 4 temporary maximum hearts,,50
+Hearty Seafood Skewer,Hearty Blueshell Snail,Fully restore hearts + 3 temporary maximum hearts,"5 Snails = 15 temporary hearts, 16 if cooked between 11:30-12:00 on a bloodmoon",30
+Hearty Mushroom Skewer,Hearty Truffle,Fully restore hearts + 1 temporary maximum heart,,10
+Hearty Mushroom Skewer,"Hearty Durian,Hearty Truffle,Big Hearty Truffle",Fully restore hearts + 9 temporary maximum hearts,,
+Hearty Meat and Mushroom Skewer,"Hearty Truffle,Raw Prime Meat",Fully restore hearts + 1 temporary maximum hearts,,40
+Hearty Omelet,"Hearty Truffle,Bird Egg",Fully restore hearts + 1 temporary maximum heart,,20
+Hearty Simmered Fruit,Hearty Durian,Fully restore hearts + 4 temporary maximum hearts,Each Durian adds an extra 4 temporary hearts for a maximum of 20.,30
+Hearty Salmon Meuniére,"Hearty Salmon,Tabantha Wheat,Goat Butter",Fully restore hearts + 4 temporary maximum hearts,,
+Hearty Steamed Meat,"Hearty Truffle,Raw Prime Meat,Hearty Radish",Fully restore hearts + 4 temporary maximum hearts,,60
+Hearty Steamed Meat,"Hearty Truffle x2,Raw Prime Meat,Hearty Radish x2",Fully restore hearts + 8 temporary maximum hearts,,120
+Hearty Steamed Meat,"Hearty Radish x4,Raw Gourmet Meat",Fully restore hearts + 12 temporary maximum hearts,,190
+Hearty Steamed Meat,"Hearty Durian x3,Hearty Radish,Raw Gourmet Meat",Fully restore hearts + 15 temporary maximum hearts,,250
+Hearty Steamed Meat,"Big Hearty Radish x2,Hearty Durian,Raw Gourmet Meat",Fully restore hearts + 15 temporary maximum,,
+Hearty Steamed Meat,"Big Hearty Radish x3,Hearty Durian,Raw Prime Meat",Fully restore hearts + 20 temporary maximum hearts,,210
+Hearty Steamed Meat,"Big Hearty Radish x4,Raw Prime Meat",Fully restore hearts + 20 temporary maximum hearts,,210
+Hearty Salt-Grilled Prime Meat,"Hearty Truffle,Hearty Radish x2,Raw Prime Meat,Rock Salt",Fully restore hearts + 7 temporary maximum hearts,,110
+Hearty Salt-Grilled Prime Meat,"Hearty Radish x3,Raw Prime Meat,Rock Salt",Fully restore hearts + 9 temporary maximum hearts,,120
+Hearty Salt-Grilled Prime Meat,"Hearty Durian,Hearty Radish x2,Raw Prime Meat,Rock Salt",Fully restore hearts + 11 temporary maximum hearts,,140
+Hearty Steamed Fish,"Palm Fruit x2,Hearty Radish x2,Hyrule Bass",Fully restore hearts + 7 temporary maximum hearts,,60
+Hearty Steamed Fish,"Hearty Blueshell Snail,Big Hearty Radish,Hearty Truffle",Fully restore hearts + 9 temporary maximum hearts,,90
+Hearty Steamed Fish,"Hearty Durian x2,Big Hearty Radish,Hearty Blueshell Snail x2",Fully restore hearts + 19 temporary maximum hearts,,190
+Hearty Milk,"Big Hearty Radish x4,Milk",Fully restore hearts + 9 temporary maximum hearts,,100
+Hearty Seafood Fried Rice,"Hylian Rice,Rock Salt,Hearty Blueshell Snail x2",Fully restore hearts + 6 temporary maximum hearts,You can probably replace the two blueshell snails with any seafood to get a different effect,
+Hearty Gourmet Meat and Seafood Fry,"Hearty Durian,Big Hearty Radish,Raw Gourmet Meat,Hearty Bass,Hearty Blueshell Snail",Fully restore hearts + 15 temporary maximum hearts,,
+Hearty Meaty Rice Balls,"Hearty Durian,Big Hearty Radish,Raw Gourmet Meat,Hylian Rice,Hearty Blueshell Snail",Fully restore hearts + 13 temporary maximum hearts,,180
+Hearty Monster Rice Balls,"Hearty Durian,Monster Extract,Hylian Rice,Rock Salt",Fully restore hearts + 5 temporary maximum hearts,Monster Extract causes a gamble. Possible to have only 1 extra heart.,
+Hearty Simmered Fruit,Hearty Durian x5,Fully restore hearts + 20 temporary maximum hearts,,210
+Hearty Fish Pie,"Hearty Salmon,Tabantha Wheat,Goat Butter,Rock Salt",Fully restore hearts + 4 temporary maximum hearts,,50
