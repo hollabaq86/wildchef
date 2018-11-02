@@ -1,27 +1,36 @@
 import pandas
+from sklearn import linear_model
 
-# def separate_ingredients(list):
-# 	for ingredient_list in ingredients:
-# 		if type(ingredient_list) == str:
-# 			separated_ingredients.extend(_prep_columns(ingredient_list))
-# 	return separated_ingredients		
+CSV_FILES = ['train.csv', 'test.csv']
 
-# def _prep_columns(list):
-# 	columns = list.split(',')
-# 	return columns
+def format_dataframe(filename):
+	test_df = pandas.read_csv(filename, delimiter=',')
 
-TEST = pandas.read_csv('output.csv', delimiter=',')
+	# one hot encode recipe categories
+	category_df = pandas.get_dummies(test_df['Category'], prefix='recipe_cat')
+	recipe_name_df = pandas.get_dummies(test_df['Name'], prefix='name')
 
-# print(TEST.columns)
-TO_SCALE = TEST[['Duration', 'Sell Price', 'Health Effect Details']]
-# print(TO_SCALE)
+	# columns that will be scaled
+	to_scale_df = test_df[['Duration', 'Sell Price', 'Health Effect Details']]
+	to_scale_df -= to_scale_df.min()
+	to_scale_df /= to_scale_df.max()
 
-TO_SCALE -= TO_SCALE.min()
-TO_SCALE /= TO_SCALE.max()
-print(TO_SCALE)
+	# drop the columns that were manipulated so that the pandas-transformed DataFrames can be added in
+	test_df = test_df.drop(['Name', 'Category', 'Strength', 'Duration', 'Sell Price', 'Health Effect Details'], axis=1)
+	final = pandas.concat([recipe_name_df, test_df, to_scale_df, category_df, ], axis=1)
+	return final
 
-TEST = TEST.drop(['Duration', 'Sell Price', 'Health Effect Details'], axis=1)
+training_df = format_dataframe(CSV_FILES[0])
+training_y_df = training_df[['Sell Price']]
+testing_df = format_dataframe(CSV_FILES[-1])
+testing_df.reset_index()
+import pdb
+pdb.set_trace()
 
-FINAL = pandas.concat([TEST, TO_SCALE], axis=1)
-
-print(FINAL.columns)
+training_df = training_df.drop(['Sell Price'])
+clf = linear_model.Lasso(alpha=0.1)
+clf.fit(training_df, training_y_df)
+training_df.to_csv('input.csv')
+print(training_y_df)
+print(clf.coef_)
+print(clf.predict(training_df))

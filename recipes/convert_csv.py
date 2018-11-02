@@ -22,13 +22,14 @@ def get_recipe_effect(recipe_name):
 def build_writing_row(recipe, ingredients, recipe_effects, health_effects):
     written_row = {}
     written_row['Name'] = recipe['Name']
+    written_row['Category'] = recipe['Category']
 
     # adding the first word in recipe names as columns in case this is a valuable feature
-    for key in recipe_effects:
-        if recipe['Recipe Name Effect'] in key:
-            written_row[key] = 1
+    for adjective in recipe_effects:
+        if recipe['Recipe Name Effect'] in adjective:
+            written_row[adjective] = 1
         else:
-            written_row[key] = 0
+            written_row[adjective] = 0
     written_row['Strength'] = recipe['Strength']
 
     working_duration = recipe['Duration']
@@ -71,9 +72,16 @@ HEALTH_EFFECTS = {}
 
 
 with open('raw_data.csv',) as csvfile:
-    READER = csv.DictReader(csvfile)
-    for row in READER:
-        name = row['Food']       
+    for row in csv.DictReader(csvfile):
+
+        name = row['Food']
+        category = 0 
+        #recipes can have multiple combinations
+        for recipe in OUTPUT:
+            if name in recipe:
+                category += 1  
+
+
         prepped_ingredients = ingredients_prep(row['Ingredients'])
         for key in prepped_ingredients:
             if key not in INGREDIENTS:
@@ -82,10 +90,10 @@ with open('raw_data.csv',) as csvfile:
                 INGREDIENTS[key] += 1
 
         name_effect = get_recipe_effect(name)
-        if 'name_' + name_effect in RECIPE_EFFECTS:
-            RECIPE_EFFECTS['name_' + name_effect] += 1
+        if 'first_' + name_effect in RECIPE_EFFECTS:
+            RECIPE_EFFECTS['first_' + name_effect] += 1
         else:
-            RECIPE_EFFECTS['name_' + name_effect] = 1   
+            RECIPE_EFFECTS['first_' + name_effect] = 1   
         
         health_effect = row['Effect Type'].split(',')
         if row['Effect Type'] == '':
@@ -107,6 +115,7 @@ with open('raw_data.csv',) as csvfile:
                 
         recipe = {
         'Name': name,
+        'Category': category,
         'Recipe Name Effect': name_effect,
         'Strength': row['Strength'],
         'Duration': row['Duration'],
@@ -116,10 +125,10 @@ with open('raw_data.csv',) as csvfile:
         'Health Effect Details': health_effect_details
         }
 
-        OUTPUT[name] = recipe
+        OUTPUT[name+'_'+str(category)] = recipe
 
 
-HEADERS = ['Name']+list(RECIPE_EFFECTS.keys())+['Strength','Duration','Sell Price']+list(INGREDIENTS.keys())+list(HEALTH_EFFECTS.keys())+['Health Effect Details']
+HEADERS = ['Name','Category']+list(RECIPE_EFFECTS.keys())+['Strength','Duration','Sell Price']+list(INGREDIENTS.keys())+list(HEALTH_EFFECTS.keys())+['Health Effect Details']
 
 
 with open('output.csv', 'w') as csvfile:

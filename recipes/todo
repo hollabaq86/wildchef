@@ -1,8 +1,32 @@
 x update counts of ingredients
 x fix ingredients with spaces before words
-- hot encode effect
-- scale strength
-- scale duration
-- scale sell price
-- scale effect details (hearts)
-- if adventurous, dict list comprehension if else
+x hot encode effect
+x scale strength
+x scale duration
+x scale sell price
+- scale effect details (hearts) //  do I want to do this?
+- if adventurous, dict list comprehension if else // do I want to do this?
+- separate data based on presence of sell price
+- training data Lasso...?
+- testing data Lasso...?
+
+
+blog post updates
+
+x change `if needed` for qualitative
+- better screenshot of scaled columns
+x one hot encoding
+x explain more clearly why it doesn't work, don't just mention that you were lazy
+- add a section on where I can refactor to use pandas
+x change all caps and take out the word constant
+x spellcheck!
+x explain what is one hot encoding
+
+
+- get rid of or update 0's in Sell Price
+- NaNs- remove from test data, including the column you want to determine
+- read underfitting
+- try some non-linear models, finish watching that video lolz
+- look into printing feature importance (match with index ina  matrix or something)
+- split training data, there's something that will do this for me??
+- jupyter notebook
